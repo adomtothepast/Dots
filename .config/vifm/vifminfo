@@ -1,0 +1,529 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/dominick/
+	..
+1600376570
+'b
+	/home/dominick/bin/
+	..
+1600376571
+'h
+	/home/dominick/
+	..
+1600376571
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/dominick/.config/nvim
+	pack
+1
+d/home/dominick/.config/nvim/pack
+	plugins
+1
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack/plugins/start
+	limelight.vim
+4
+d/home/dominick/.config/nvim/pack/plugins/start/limelight.vim
+	..
+0
+d/home/dominick/.config/nvim/pack/plugins/start
+	limelight.vim
+4
+d/home/dominick/.config/nvim/pack/plugins/start/limelight.vim
+	..
+0
+d/home/dominick/.config/nvim/pack/plugins/start
+	limelight.vim
+4
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack
+	plugins
+1
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack/plugins/start
+	limelight.vim
+4
+d/home/dominick/.config/nvim/pack/plugins/start/limelight.vim
+	..
+0
+d/home/dominick/.config/nvim/pack/plugins/start
+	limelight.vim
+4
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack
+	plugins
+1
+d/home/dominick/.config/nvim
+	pack
+1
+d/home/dominick/.config
+	nvim
+17
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	bspwm
+11
+d/home/dominick/.config/bspwm
+	bspwmrc
+4
+d/home/dominick/.config
+	bspwm
+11
+d/home/dominick/.config/bspwm
+	bspwmrc
+4
+d/home/dominick/.config
+	bspwm
+11
+d/home/dominick/.config/bspwm
+	bspwmrc
+4
+d/home/dominick/.config
+	polybar
+20
+d/home/dominick/.config/polybar
+	config
+2
+d/home/dominick/.config
+	nvim
+29
+d/home/dominick/.config/nvim
+	pack
+1
+d/home/dominick/.config/nvim/pack
+	plugins
+1
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack/plugins/start
+	vifm.vim
+8
+d/home/dominick/.config/nvim/pack/plugins
+	start
+1
+d/home/dominick/.config/nvim/pack
+	plugins
+1
+d/home/dominick/.config/nvim
+	pack
+1
+d/home/dominick/.config
+	polybar
+33
+d/home/dominick/.config/polybar
+	config
+2
+d/home/dominick/.config
+	polybar
+33
+d/home/dominick
+	dotfiles
+33
+d/home/dominick/dotfiles
+	LICENSE
+4
+d/home/dominick
+	Downloads
+22
+d/home/dominick/Downloads
+	..
+0
+d/home/dominick
+	Downloads
+22
+d/home/dominick/Downloads
+	surf-2.0.tar.gz
+4
+d/home/dominick
+	baraction.sh
+57
+d/home
+	dominick
+1
+d/
+	home
+4
+d/home
+	dominick
+1
+d/home/dominick
+	wallpapers
+27
+d/home/dominick/wallpapers
+	README.md
+57
+d/home/dominick
+	dracula
+22
+d/home/dominick/dracula
+	..
+0
+d/home/dominick
+	dracula
+35
+d/home/dominick/dracula
+	screenshot.png
+7
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	qutebrowser
+37
+d/home/dominick/.config/qutebrowser
+	bookmarks
+1
+d/home/dominick/.config/qutebrowser/bookmarks
+	..
+0
+d/home/dominick/.config/qutebrowser
+	qsettings
+2
+d/home/dominick/.config/qutebrowser/qsettings
+	..
+0
+d/home/dominick/.config/qutebrowser
+	autoconfig.yml
+3
+d/home/dominick/.config
+	qutebrowser
+37
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	qutebrowser
+37
+d/home/dominick/.config/qutebrowser
+	dracula
+2
+d/home/dominick/.config
+	qutebrowser
+37
+d/home/dominick/.config/qutebrowser
+	dracula
+2
+d/home/dominick/.config/qutebrowser/dracula
+	readme.md
+6
+d/home/dominick/.config/qutebrowser
+	quickmarks
+5
+d/home/dominick/.config
+	qutebrowser
+37
+d/home/dominick
+	HomePage
+24
+d/home/dominick/HomePage
+	..
+0
+d/home/dominick
+	HomePage
+24
+d/home/dominick/HomePage
+	homepage.html
+2
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	bspwm
+8
+d/home/dominick/.config/bspwm
+	autostart.sh
+3
+d/home/dominick/.config
+	polybar
+33
+d/home/dominick/.config/polybar
+	config
+2
+d/home/dominick/.config
+	polybar
+33
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	termite
+43
+d/home/dominick/.config/termite
+	config
+3
+d/home/dominick/.config
+	omf
+31
+d/home/dominick/.config/omf
+	bundle
+1
+d/home/dominick/.config
+	menus
+24
+d/home/dominick/.config/menus
+	applications-merged
+1
+d/home/dominick/.config/menus/applications-merged
+	..
+0
+d/home/dominick/.config/menus
+	applications-merged
+1
+d/home/dominick/.config
+	flameshot
+15
+d/home/dominick/.config/flameshot
+	..
+0
+d/home/dominick/.config
+	fish
+14
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	functions
+2
+d/home/dominick/.config/fish/functions
+	fish_prompt.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d
+
+# Right window history (oldest to newest):
+D/home/dominick
+	Downloads
+3
+D/home/dominick/Downloads
+	..
+0
+D/home/dominick
+	Downloads
+3
+D/home/dominick/Downloads
+	..
+0
+D/home/dominick
+	python-syntax
+18
+D/home
+	dominick
+1
+D/home/dominick
+	paper-icon-theme
+17
+D
+
+# Command line history (oldest to newest):
+:set
+:yo
+:open 
+:open Shadow.AppImage
+:delete
+:open
+:exec
+:execute
+:start
+:copy
+:w
+:wq
+:new
+:create
+:file
+:help
+:rename
+:vim
+:q
+
+# Search history (oldest to newest):
+/init.fish
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/dominick/dracula
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/dominick/.local/share/vifm/Trash/000_Arch
+	/home/dominick/VirtualBox VMs/Arch
+t/home/dominick/.local/share/vifm/Trash/000_termite
+	/home/dominick/.config/termite
+t/home/dominick/.local/share/vifm/Trash/000_variety
+	/home/dominick/.config/variety
+t/home/dominick/.local/share/vifm/Trash/000_conky
+	/home/dominick/.config/conky
+t/home/dominick/.local/share/vifm/Trash/000_init.fish
+	/home/dominick/.config/fish/init.fish
+t/home/dominick/.local/share/vifm/Trash/000_qwe_download.png
+	/home/dominick/Downloads/qwe_download.png
+t/home/dominick/.local/share/vifm/Trash/000_VirtualBox
+	/home/dominick/dotfiles/.config/VirtualBox
+t/home/dominick/.local/share/vifm/Trash/000_arcolinux-tweak-tool
+	/home/dominick/dotfiles/.config/arcolinux-tweak-tool
+t/home/dominick/.local/share/vifm/Trash/000_arcolinux-welcome-app
+	/home/dominick/dotfiles/.config/arcolinux-welcome-app
+t/home/dominick/.local/share/vifm/Trash/000_Kvantum
+	/home/dominick/dotfiles/.config/Kvantum
+t/home/dominick/.local/share/vifm/Trash/000_Thunar
+	/home/dominick/dotfiles/.config/Thunar
+t/home/dominick/.local/share/vifm/Trash/000_autostart
+	/home/dominick/dotfiles/.config/autostart
+t/home/dominick/.local/share/vifm/Trash/000_cef_user_data
+	/home/dominick/dotfiles/.config/cef_user_data
+t/home/dominick/.local/share/vifm/Trash/000_dconf
+	/home/dominick/dotfiles/.config/dconf
+t/home/dominick/.local/share/vifm/Trash/000_discord
+	/home/dominick/dotfiles/.config/discord
+t/home/dominick/.local/share/vifm/Trash/000_galculator
+	/home/dominick/dotfiles/.config/galculator
+t/home/dominick/.local/share/vifm/Trash/000_gconf
+	/home/dominick/dotfiles/.config/gconf
+t/home/dominick/.local/share/vifm/Trash/000_geany
+	/home/dominick/dotfiles/.config/geany
+t/home/dominick/.local/share/vifm/Trash/000_fontconfig
+	/home/dominick/dotfiles/.config/fontconfig
+t/home/dominick/.local/share/vifm/Trash/000_libreoffice
+	/home/dominick/dotfiles/.config/libreoffice
+t/home/dominick/.local/share/vifm/Trash/000_htop
+	/home/dominick/dotfiles/.config/htop
+t/home/dominick/.local/share/vifm/Trash/000_nomacs
+	/home/dominick/dotfiles/.config/nomacs
+t/home/dominick/.local/share/vifm/Trash/000_obs-studio
+	/home/dominick/dotfiles/.config/obs-studio
+t/home/dominick/.local/share/vifm/Trash/000_nitrogen
+	/home/dominick/dotfiles/.config/nitrogen
+t/home/dominick/.local/share/vifm/Trash/000_pamac
+	/home/dominick/dotfiles/.config/pamac
+t/home/dominick/.local/share/vifm/Trash/000_pulse
+	/home/dominick/dotfiles/.config/pulse
+t/home/dominick/.local/share/vifm/Trash/000_qtile
+	/home/dominick/dotfiles/.config/qtile
+t/home/dominick/.local/share/vifm/Trash/000_spotify
+	/home/dominick/dotfiles/.config/spotify
+t/home/dominick/.local/share/vifm/Trash/000_vlc
+	/home/dominick/dotfiles/.config/vlc
+t/home/dominick/.local/share/vifm/Trash/000_xfce4
+	/home/dominick/dotfiles/.config/xfce4
+t/home/dominick/.local/share/vifm/Trash/000_yay
+	/home/dominick/dotfiles/.config/yay
+t/home/dominick/.local/share/vifm/Trash/000_.dwm
+	/home/dominick/.dwm
+t/home/dominick/.local/share/vifm/Trash/000_.spectrwm(1).conf
+	/home/dominick/.spectrwm(1).conf
+t/home/dominick/.local/share/vifm/Trash/000_.spectrwm.conf
+	/home/dominick/dotfiles/.spectrwm.conf
+t/home/dominick/.local/share/vifm/Trash/000_baraction.sh
+	/home/dominick/dotfiles/baraction.sh
+t/home/dominick/.local/share/vifm/Trash/000_lightline
+	/home/dominick/.config/nvim/pack/plugins/start/lightline
+t/home/dominick/.local/share/vifm/Trash/000_autoload
+	/home/dominick/.config/nvim/pack/plugins/start/autoload
+t/home/dominick/.local/share/vifm/Trash/000_doc
+	/home/dominick/.config/nvim/pack/plugins/start/doc
+t/home/dominick/.local/share/vifm/Trash/000_ftplugin
+	/home/dominick/.config/nvim/pack/plugins/start/ftplugin
+t/home/dominick/.local/share/vifm/Trash/000_syntax
+	/home/dominick/.config/nvim/pack/plugins/start/syntax
+t/home/dominick/.local/share/vifm/Trash/000_test
+	/home/dominick/.config/nvim/pack/plugins/start/test
+t/home/dominick/.local/share/vifm/Trash/000_.gitignore
+	/home/dominick/.config/nvim/pack/plugins/start/.gitignore
+t/home/dominick/.local/share/vifm/Trash/000_CONTRIBUTING.md
+	/home/dominick/.config/nvim/pack/plugins/start/CONTRIBUTING.md
+t/home/dominick/.local/share/vifm/Trash/000_LICENSE-MIT.txt
+	/home/dominick/.config/nvim/pack/plugins/start/LICENSE-MIT.txt
+t/home/dominick/.local/share/vifm/Trash/000_README.md
+	/home/dominick/.config/nvim/pack/plugins/start/README.md
+t/home/dominick/.local/share/vifm/Trash/000_README_KR.md
+	/home/dominick/.config/nvim/pack/plugins/start/README_KR.md
+t/home/dominick/.local/share/vifm/Trash/000_README_ZH_CN.md
+	/home/dominick/.config/nvim/pack/plugins/start/README_ZH_CN.md
+t/home/dominick/.local/share/vifm/Trash/000_README_ZH_TW.md
+	/home/dominick/.config/nvim/pack/plugins/start/README_ZH_TW.md
+t/home/dominick/.local/share/vifm/Trash/000_changelog.md
+	/home/dominick/.config/nvim/pack/plugins/start/changelog.md
+t/home/dominick/.local/share/vifm/Trash/000_Vundle.vim
+	/home/dominick/.vim/bundle/Vundle.vim
+t/home/dominick/.local/share/vifm/Trash/000_.vundle
+	/home/dominick/.vim/bundle/.vundle
+t/home/dominick/.local/share/vifm/Trash/001_Vundle.vim
+	/home/dominick/.config/nvim/pack/plugins/start/Vundle.vim
+t/home/dominick/.local/share/vifm/Trash/000_vim-instant-markdown
+	/home/dominick/vim-instant-markdown
+t/home/dominick/.local/share/vifm/Trash/000_vim-rainbow
+	/home/dominick/vim-rainbow
+t/home/dominick/.local/share/vifm/Trash/000_vifm.vim
+	/home/dominick/vifm.vim
+t/home/dominick/.local/share/vifm/Trash/000_nerdtree
+	/home/dominick/nerdtree
+t/home/dominick/.local/share/vifm/Trash/000_bashtop
+	/home/dominick/.config/bashtop
+t/home/dominick/.local/share/vifm/Trash/000_vim-css-color
+	/home/dominick/vim-css-color
+t/home/dominick/.local/share/vifm/Trash/000_sxhkd-vim
+	/home/dominick/sxhkd-vim
+t/home/dominick/.local/share/vifm/Trash/000_python-syntax
+	/home/dominick/python-syntax
+t/home/dominick/.local/share/vifm/Trash/000_goyo.vim
+	/home/dominick/goyo.vim
+t/home/dominick/.local/share/vifm/Trash/000_limelight.vim
+	/home/dominick/limelight.vim
+t/home/dominick/.local/share/vifm/Trash/000_nixos-minimal-20.03.3101.0d0660fde3b-i686-linux.iso
+	/home/dominick/Downloads/nixos-minimal-20.03.3101.0d0660fde3b-i686-linux.iso
+t/home/dominick/.local/share/vifm/Trash/000_nixos-minimal-20.03.3101.0d0660fde3b-x86_64-linux.iso
+	/home/dominick/Downloads/nixos-minimal-20.03.3101.0d0660fde3b-x86_64-linux.iso
+t/home/dominick/.local/share/vifm/Trash/000_clouds-pole-to-pole-by-robertogatto-1920×1080.jpg
+	/home/dominick/wallpapers/clouds-pole-to-pole-by-robertogatto-1920×1080.jpg
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

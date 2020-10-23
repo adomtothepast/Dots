@@ -1,0 +1,388 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/dominick/
+	..
+1600376570
+'b
+	/home/dominick/bin/
+	..
+1600376571
+'h
+	/home/dominick/
+	..
+1600376571
+'z
+	/home/dominick/.config/vifm
+	..
+1600376570
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	functions
+2
+d/home/dominick/.config/fish/functions
+	..
+0
+d/home/dominick/.config/fish
+	functions
+2
+d/home/dominick/.config/fish/functions
+	fish_prompt.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config
+	fish
+12
+d/home/dominick
+	Documents
+17
+d/home
+	dominick
+1
+d/
+	home
+4
+d/home
+	dominick
+1
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	omf
+25
+d/home/dominick/.config/omf
+	channel
+2
+d/home/dominick/.config
+	autostart
+7
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	fish
+12
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config
+	omf
+25
+d/home/dominick/.config/omf
+	channel
+2
+d/home/dominick/.config
+	fish
+12
+d/home/dominick/.config/fish
+	fish_variables
+3
+d/home/dominick/.config
+	omf
+25
+d/home/dominick/.config/omf
+	..
+0
+d/home/dominick/.config
+	fish
+12
+d/home/dominick/.config/fish
+	fish_variables
+3
+d/home/dominick/.config
+	fish
+12
+d/home/dominick
+	.config
+5
+d/home
+	dominick
+1
+d/
+	home
+4
+d/home
+	dominick
+1
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	fish
+12
+d/home/dominick/.config/fish
+	functions
+2
+d/home/dominick/.config/fish/functions
+	..
+0
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config/fish/conf.d
+	omf.fish
+1
+d/home/dominick/.config/fish
+	conf.d
+1
+d/home/dominick/.config
+	fish
+12
+d/home/dominick
+	.config
+5
+d/home
+	dominick
+1
+d/
+	lib
+5
+d/lib
+	GConf
+1
+d/
+	etc
+3
+d/etc
+	hblock.d
+34
+d/etc/hblock.d
+	blacklist.list
+1
+d/etc
+	hblock.d
+34
+d/
+	etc
+3
+d/etc
+	hblock.d
+34
+d/
+	home
+4
+d/home
+	dominick
+1
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	bspwm
+8
+d/home/dominick/.config/bspwm
+	scripts
+1
+d/home/dominick/.config/bspwm/scripts
+	picom-toggle.sh
+4
+d/home/dominick/.config/bspwm
+	sxhkd
+2
+d/home/dominick/.config/bspwm/sxhkd
+	sxhkdrc
+1
+d/home/dominick/Downloads
+	paper-icon-theme-git.tar.gz
+6
+d/home/dominick
+	Downloads
+18
+d/home
+	dominick
+1
+d/
+	home
+4
+d/home
+	dominick
+1
+d/home/dominick
+	Downloads
+18
+d/home/dominick/Downloads
+	paper-icon-theme-git.tar.gz
+6
+d/home/dominick
+	Documents
+17
+d/home/dominick/Documents
+	..
+0
+d/home/dominick
+	Downloads
+18
+d/home/dominick/Downloads
+	shell-color-scripts
+1
+d/home/dominick
+	.config
+5
+d/home/dominick/.config
+	bspwm
+8
+d/home/dominick/.config/bspwm
+	scripts
+1
+d/home/dominick/.config/bspwm/scripts
+	move-window
+3
+d/home/dominick/.config/bspwm
+	scripts
+1
+d/home/dominick/.config
+	polybar
+27
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	weather.py
+6
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	spotify1.sh
+4
+d/home/dominick/.config/polybar
+	scripts
+1
+d/home/dominick/.config/polybar/scripts
+	spotify1.sh
+4
+d/home/dominick/.config/polybar
+	config
+2
+d/home/dominick/.config
+	qutebrowser
+31
+d/home/dominick/.config/qutebrowser
+	bookmarks
+1
+d/home/dominick/.config/qutebrowser/bookmarks
+	urls
+1
+d/home/dominick/.config/qutebrowser
+	qsettings
+2
+d/home/dominick/.config/qutebrowser/qsettings
+	QtProject.conf
+1
+d
+
+# Right window history (oldest to newest):
+D/home/dominick
+	Downloads
+4
+D
+
+# Command line history (oldest to newest):
+:set
+:yo
+:open 
+:open Shadow.AppImage
+:delete
+:open
+:exec
+:execute
+:start
+:q
+
+# Search history (oldest to newest):
+/init.fish
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/dominick/.local/share/vifm/Trash/000_qwe_download.png
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/dominick/.local/share/vifm/Trash/000_Arch
+	/home/dominick/VirtualBox VMs/Arch
+t/home/dominick/.local/share/vifm/Trash/000_termite
+	/home/dominick/.config/termite
+t/home/dominick/.local/share/vifm/Trash/000_variety
+	/home/dominick/.config/variety
+t/home/dominick/.local/share/vifm/Trash/000_conky
+	/home/dominick/.config/conky
+t/home/dominick/.local/share/vifm/Trash/000_init.fish
+	/home/dominick/.config/fish/init.fish
+t/home/dominick/.local/share/vifm/Trash/000_qwe_download.png
+	/home/dominick/Downloads/qwe_download.png
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
