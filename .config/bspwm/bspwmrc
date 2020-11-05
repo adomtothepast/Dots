@@ -37,8 +37,8 @@ bspc config urgent_border_color 	      "#"
 
 
 #Single monitor
-bspc monitor HDMI1 -d 1 2 3 4
-bspc monitor eDP1 -d 5 6 7 8
+bspc monitor HDMI1 -d 1 2 3 4 
+bspc monitor eDP1 -d 1 2 3 4
 
 #Dual monitor
 #find out names with arandr or xrandr

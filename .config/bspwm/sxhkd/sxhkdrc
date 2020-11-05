@@ -164,7 +164,13 @@ super + alt + y
 
 # run program launcher
 super + shift + Return
-	dmenu_run
+	rofi -show drun
+# run program launcher 2
+super + ctrl + Return
+	rofi -show run
+# run window switcher
+alt + ctrl + Return
+	rofi -show 
 # edit common config files
 alt + ctrl + e
    /home/dominick/.dmenu/dmenu-edit-configs.sh
